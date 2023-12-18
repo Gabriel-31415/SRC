@@ -33,14 +33,8 @@ obter uma tradução inteligível para o texto claro. Na média, metade de todas
 sam ser experimentadas para então se obter sucesso.
 ##### (e) Defina resumidamente a cifra de César; a cifra de Hill; a cifra de Feistel (por que é importante estudá-la?); e, a diferença entre DES, Rijndael e AES.
 **cifra de César** envolve substituir cada letra do alfabeto por aquela que fica três posições adiante.
-**cifra de Hill** Esse algoritmo de encriptação utiliza m letras de texto claro sucessivas e as substitui por
-m letras de texto cifrado. A substituição é determinada por m equações lineares, em que cada caractere recebe um
-valor numérico (a = 0, b = 1, ..., z = 25)
-**cifra de Feistel** Muitos algoritmos de encriptação de bloco simétricos em uso atual são baseados em uma estrutura conhe-
-cida como cifra de bloco de Feistel
-Feistel propôs que podemos aproximar a cifra de bloco ideal utilizando o conceito de uma cifra
-de produto, que é a execução de duas ou mais cifras simples em sequência, de tal forma que o resultado ou
-produto final seja criptograficamente mais forte do que qualquer uma das cifras componentes.
+**cifra de Hill** Esse algoritmo de encriptação utiliza m letras de texto claro sucessivas e as substitui por m letras de texto cifrado. A substituição é determinada por m equações lineares, em que cada caractere recebe um valor numérico (a = 0, b = 1, ..., z = 25)
+**cifra de Feistel** Muitos algoritmos de encriptação de bloco simétricos em uso atual são baseados em uma estrutura conhecida como cifra de bloco de Feistel Feistel propôs que podemos aproximar a cifra de bloco ideal utilizando o conceito de uma cifra de produto, que é a execução de duas ou mais cifras simples em sequência, de tal forma que o resultado ou produto final seja criptograficamente mais forte do que qualquer uma das cifras componentes.
 
 ### 3. Quando o barco de patrulha norte-americano PT-109, sob o comando do tenente John f. Kennedy, foi afundado por um destróier japonês, uma mensagem foi recebida na estação sem fio australiana em código playfair:
 ### KXJEY UREBE ZWEHE WRYTU HEYFS
